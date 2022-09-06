@@ -1,12 +1,12 @@
-<h1 align="center">This is my Azure Terraform Page</h1>
-<h3 align="center">It mainly consists of Terraform code that creates Azure resources.</h3>
+<h1 align="center">This is my Terraform Page</h1>
+<h3 align="center">It mainly consists of Terraform code that I am currently working or have tabled, but I will aslo upload completed terraform projects.</h3>
 
 <p align="center">
-  <img src="[https://cdn-images-1.medium.com/max/1200/1*9-ILOQ1Yxautyc_uIguhVw.png](https://cdn-ak.f.st-hatena.com/images/fotolife/d/dombri/20200725/20200725180932.jpg)" alt="Terraform"/>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*9-ILOQ1Yxautyc_uIguhVw.png" alt="Terraform"/>
 </p>
 <p align="left">
   
-- ✍ I am mainly working on resource creation for Azure in Terraform.
+- ✍ I am mainly working with Google Cloud, AWS, and Azure using Terraform to create resources.
 
 
 <p align="center">
