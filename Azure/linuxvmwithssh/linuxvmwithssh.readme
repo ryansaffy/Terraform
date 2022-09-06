@@ -1,0 +1,14 @@
+<h1 align="center">Terraform code for creating Linux VM with SSH</h1>
+<h3 align="center">This project is about creating a Linux VM with SSH and Docker.</h3>
+
+<p align="center">
+  <img src="https://www.vtc.com/files/images/courses/33969.jpeg" alt="Terraform"/>
+</p>
+<p align="left">
+  
+- ✍ The goal is to refine the code to be more readable and add more complexity to the VM.
+
+
+<p align="center">
+
+</p>
