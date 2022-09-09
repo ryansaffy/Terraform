@@ -1,0 +1,5 @@
+# The idea I have is for creating a new Linux virtual machine in Terraform.
+
+# The idea is for Terraform to erase the old SSH key and setup a new SSH key each time you run the Terraform apply command.
+
+# Currently I have a project that creates a virtual machine with SSH, but it does not automate the SSH key process.
